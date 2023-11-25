@@ -5,6 +5,8 @@
 - Enzo Fabricio Camargo Ramírez
 - Alonso Jesús Ulloa Vizquerra
 
+Video de la expo: https://www.canva.com/design/DAF1I0nr7aw/_evOg0JLL1yPYjCvJVRzPA/watch?utm_content=DAF1I0nr7aw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
 ## Introduction
 
 El desarrollo de sistemas operativos y la interacción con ellos se ha convertido en un aspecto fundamental en la informática moderna. Las interfaces de línea de comandos (CLI) representan una parte esencial de esta interacción, permitiendo a los usuarios comunicarse con el sistema a través de comandos textuales.
