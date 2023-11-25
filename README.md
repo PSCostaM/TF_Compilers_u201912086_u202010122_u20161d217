@@ -43,7 +43,9 @@ Manejo de Variables y Ambiente: Implementar el manejo de variables de entorno, d
 
 ## Results
 
+![image](https://github.com/PSCostaM/TF_Compilers_u201912086_u202010122_u20161d217/assets/48858434/c6200d6a-1b09-487a-95a2-8a4619191d1b)
 
+Lista de files generados por ANTLR4 teniendo como grammar el archivo .g4.
 
 ## Conclusiones
 
