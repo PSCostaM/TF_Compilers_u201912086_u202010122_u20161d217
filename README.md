@@ -27,7 +27,7 @@ Algunos de los objetivos específicos fueron:
 
 ## Methodology
 
-###Investigación y Planificación Inicial:
+### Investigación y Planificación Inicial:
 
 - Estudio de Shells Existentes: Analizar las características y funcionalidades de shells como Bash, Fish, Zsh, entre otras, para comprender su estructura y diseño.
 Definición de Requisitos: Identificar las funcionalidades esenciales que la shell debe tener y establecer prioridades para su implementación.
@@ -43,4 +43,14 @@ Manejo de Variables y Ambiente: Implementar el manejo de variables de entorno, d
 
 ## Results
 
+
+
 ## Conclusiones
+
+El desarrollo de esta shell utilizando ANTLR y C++ ha sido un ejercicio significativo que ha proporcionado una comprensión más profunda de las complejidades y desafíos inherentes a la creación de una interfaz de línea de comandos. A través de este proyecto, se han logrado una serie de avances y se han identificado áreas de mejora y posibles direcciones futuras:
+
+- Éxito en la Implementación de una Gramática Funcional: La definición y utilización de ANTLR para la gramática ha sido fundamental para lograr una interpretación precisa y eficiente de los comandos, proporcionando una base sólida para la comprensión de las instrucciones ingresadas por el usuario.
+
+- Funcionalidades Básicas Implementadas con Éxito: Se logró implementar un conjunto inicial de funcionalidades esenciales, incluyendo la ejecución de comandos simples, el manejo de variables de entorno y la redirección de entrada/salida, sentando las bases para una shell operativa.
+
+- Desafíos y Áreas de Mejora Identificadas: Durante el desarrollo, surgieron desafíos relacionados con la gestión de errores, la complejidad en la interpretación de comandos más avanzados y el incluir argumentos en los comandos creados. Estos aspectos pueden ser mejorados para una experiencia más robusta y completa.
