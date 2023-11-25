@@ -47,6 +47,10 @@ Manejo de Variables y Ambiente: Implementar el manejo de variables de entorno, d
 
 Lista de files generados por ANTLR4 teniendo como grammar el archivo .g4.
 
+![image](https://github.com/PSCostaM/TF_Compilers_u201912086_u202010122_u20161d217/assets/48858434/b5fd98c4-9ec8-41a2-96a4-5f211c5e7b7a)
+
+Funcionamiento de commando ls con argumento -la
+
 ## Conclusiones
 
 El desarrollo de esta shell utilizando ANTLR y C++ ha sido un ejercicio significativo que ha proporcionado una comprensión más profunda de las complejidades y desafíos inherentes a la creación de una interfaz de línea de comandos. A través de este proyecto, se han logrado una serie de avances y se han identificado áreas de mejora y posibles direcciones futuras:
