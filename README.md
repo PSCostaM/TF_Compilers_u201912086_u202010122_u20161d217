@@ -51,6 +51,11 @@ Lista de files generados por ANTLR4 teniendo como grammar el archivo .g4.
 
 Funcionamiento de commando ls con argumento -la
 
+![image](https://github.com/PSCostaM/TF_Compilers_u201912086_u202010122_u20161d217/assets/48858434/c95e683b-af21-4515-83ae-a70bfa3f235a)
+
+
+Uso de condicionales y acciones después de cumplir el condicional
+
 ## Conclusiones
 
 El desarrollo de esta shell utilizando ANTLR y C++ ha sido un ejercicio significativo que ha proporcionado una comprensión más profunda de las complejidades y desafíos inherentes a la creación de una interfaz de línea de comandos. A través de este proyecto, se han logrado una serie de avances y se han identificado áreas de mejora y posibles direcciones futuras:
